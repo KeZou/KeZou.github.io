@@ -1,0 +1,26 @@
+.profile{
+	max-width:50%;
+}
+
+.headphoto{
+	max-width:80%;
+}
+
+.space-icon{
+	padding-left: 2px; 
+	padding-right: 2px;
+}
+
+.space-box{
+	psdding:10px;
+}
+
+.card{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.progress{
+	margin-top:5px;
+	margin-bottom:10px;
+}
